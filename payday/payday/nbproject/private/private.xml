@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/LG/Downloads/payday-20211217T084846Z-001/payday/src/payday/View/View.java</file>
+            <file>file:/C:/Users/LG/Downloads/payday-20211217T084846Z-001/payday/src/payday/Model/Position/DicePosition.java</file>
+            <file>file:/C:/Users/LG/Downloads/payday-20211217T084846Z-001/payday/src/payday/Model/Position/BothPlayersDicePosition.java</file>
+            <file>file:/C:/Users/LG/Downloads/payday-20211217T084846Z-001/payday/src/payday/Model/Cards/DealCard.java</file>
+            <file>file:/C:/Users/LG/Downloads/payday-20211217T084846Z-001/payday/src/payday/Model/Board/Board.java</file>
+            <file>file:/C:/Users/LG/Downloads/payday-20211217T084846Z-001/payday/src/payday/Model/Position/OnePlayerDicePosition.java</file>
+            <file>file:/C:/Users/LG/Downloads/payday-20211217T084846Z-001/payday/src/payday/Controller/Controller.java</file>
+            <file>file:/C:/Users/LG/Downloads/payday-20211217T084846Z-001/payday/src/payday/Model/Position/PayDayPosition.java</file>
+            <file>file:/C:/Users/LG/Downloads/payday-20211217T084846Z-001/payday/src/payday/View/pdBoard.java</file>
+            <file>file:/C:/Users/LG/Downloads/payday-20211217T084846Z-001/payday/src/payday/Model/Position/OneDiceType.java</file>
+            <file>file:/C:/Users/LG/Downloads/payday-20211217T084846Z-001/payday/src/payday/Model/Pawn/Pawn.java</file>
+            <file>file:/C:/Users/LG/Downloads/payday-20211217T084846Z-001/payday/src/payday/Model/Position/Position.java</file>
+            <file>file:/C:/Users/LG/Downloads/payday-20211217T084846Z-001/payday/src/payday/Model/Position/SimplePosition.java</file>
+            <file>file:/C:/Users/LG/Downloads/payday-20211217T084846Z-001/payday/src/payday/Model/Position/CardPosition.java</file>
+            <file>file:/C:/Users/LG/Downloads/payday-20211217T084846Z-001/payday/src/payday/Model/Position/Days.java</file>
+            <file>file:/C:/Users/LG/Downloads/payday-20211217T084846Z-001/payday/src/payday/View/PayDayBrd.java</file>
+            <file>file:/C:/Users/LG/Downloads/payday-20211217T084846Z-001/payday/src/payday/Model/Position/CardPositionType.java</file>
+            <file>file:/C:/Users/LG/Downloads/payday-20211217T084846Z-001/payday/src/payday/View/PayDayCards.java</file>
+        </group>
+    </open-files>
+</project-private>

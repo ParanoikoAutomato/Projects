@@ -1,0 +1,104 @@
+
+
+quad                opcode              result              arg1                arg2                label               
+-----------------------------------------------------------------------------------------------------------------
+1                   assign              x                   10.000000                               
+
+2                   assign              _t0                 x                                       
+
+3                   assign              y                   hello                                   
+
+4                   assign              _t0                 y                                       
+
+5                   assign              z                   world                                   
+
+6                   assign              _t0                 z                                       
+
+7                   param                                   3.141500                                
+
+8                   call                                    cos                                     
+
+9                   getretval           _t0                                                         
+
+10                  assign              w                   _t0                                     
+
+11                  assign              _t1                 w                                       
+
+12                  param                                   w                                       
+
+13                  param                                   z                                       
+
+14                  param                                   y                                       
+
+15                  param                                   x                                       
+
+16                  call                                    print                                   
+
+17                  getretval           _t0                                                         
+
+18                  jump                                                                            24
+
+19                  funcstart                               f                                       
+
+20                  add                 _t0                 x                   y                   
+
+21                  ret                 _t0                                                         
+
+22                  jump                                                                            23
+
+23                  funcend                                 f                                       
+
+24                  mul                 _t0                 1.000000            2.000000            
+
+25                  assign              k                   _t0                                     
+
+26                  assign              _t1                 k                                       
+
+27                  if_eq                                   4.000000            true                29
+
+28                  jump                                                                            36
+
+29                  if_eq                                   5.000000            true                31
+
+30                  jump                                                                            35
+
+31                  if_eq                                   6.000000            true                33
+
+32                  jump                                                                            34
+
+33                  jump                                                                            31
+
+34                  jump                                                                            29
+
+35                  jump                                                                            27
+
+36                  if_eq                                   a                   true                38
+
+37                  jump                                                                            41
+
+38                  assign              d                   4.000000                                
+
+39                  assign              _t0                 d                                       
+
+40                  jump                                                                            43
+
+41                  assign              c                   a                                       
+
+42                  assign              _t0                 c                                       
+
+43                  if_eq                                   true                true                45
+
+44                  jump                                                                            47
+
+45                  assign              a                   4.000000                                
+
+46                  assign              _t0                 a                                       
+
+47                  if_greater                              f                   d                   50
+
+48                  assign              _t0                 false                                   
+
+49                  jump                                                                            51
+
+50                  assign              _t0                 true                                    
+
