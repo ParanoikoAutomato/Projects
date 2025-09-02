@@ -8,3 +8,10 @@ xreiastei ginetai manualy.
 
 Gia tests mou arkouse to target pou dothike kai epipleon prosthesa merika dika mou arxeia gia to 1o kai 2o erotima.
 
+make clean
+compile: make all
+scan folder for malicious files: antivirus scan /directory/
+inspect for malicious files: antivirus inspect /directory/
+monitor for malicious behavior: antivirus monitor /directory/
+generate  shares for key: antivirus slice int
+encryption key: antivirus unlock [int, int] [int, int] [int, int]
